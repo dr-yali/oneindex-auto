@@ -6,7 +6,7 @@ cd /
 p=1234
 
 #是否安装Apache2
-a=n
+a=y
 
 #默认网页路径
 dir="/var/www/html"
