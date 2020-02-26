@@ -6,7 +6,7 @@ cd /
 p=1234
 
 #是否安装Apache2
-a=y
+a=n
 
 #默认网页路径
 dir="/var/www/html"
@@ -112,9 +112,9 @@ sudo echo $upload >> /root/.aria2/aria2.conf
 
 #设置systemctl
 sudo cp $tmp/aria2c /etc/init.d/
-sudo cp $tmp/filebrowser /etc/init.d/
+#sudo cp $tmp/filebrowser /etc/init.d/
 sudo chmod 777  /etc/init.d/aria2c
-sudo chmod 777  /etc/init.d/filebrowser
+#sudo chmod 777  /etc/init.d/filebrowser
 sudo systemctl daemon-reload
 sudo service aria2c restart
-sudo service filebrowser restart
+#sudo service filebrowser restart
