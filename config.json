@@ -1,0 +1,22 @@
+[
+  {
+    "MSAccount": false,
+    "MainLand": true,
+    "RefreshToken": "OAQABAAAAAAD32Me_adtYS4A5iUsE7inocEhDo6Bbjz-qqPW7Dc9eeAAJCcMxb9k1ENNNBET_bYbO8LcKu3HA71XLFUavUGRq_Jl-o9uYyVtHxCwCi_qwwOwj_Zwu4rmUHqgYLFBqgKne9woiBL8_paLsGk_5vmdWYiSRH_hEIuwzsS4JudxUcTId1K0V3QqFS6eh5752SBTvWQF-uyyRB0T5UoFuCvc6JjvPFFUx8s2X8tWCip3urNyVD8aPcu9919kz6eg9-SWuX2mDSRWmDdxYgHwZ9GAh56yMuxsCc8UzuecuyzshjDO2vI4awG_AqBRR6cDL4Vv1fynij08Wpy5zaVWDH7SAMCH2k2_amwBvonIhPSnu8KIJx6z0dfq4RfByJs8URCOdwMH3xxXX5zrBNdQznWxbRiNJvAJIv5QfLqULXa0_6-iLVvNrkCDWsBWZJalrDnS6Ulzo67-xaV23gnqH-QI7xkUJlwcVsnWBa9Vi9rc5_ZCvzXO2s7BKDJUvf7piJw03KenNYlkuhkni5bVBK1c73g4Of2zOKfl6LudEklbpnMERs5d0Dmh7MybAoonMeZn7nX5USyBn6wOMdBennM-9OhHkSZSmDNfVE_Bs6Axo8dSIJH6Jix-ImCriyKRR9c6KAZUtoGoEdxjg6PF2aNW7Rj-JhwJPGuYvHrHUkrYZvRqAIIng8kIGYq1TWXmnB7QK1aJ5q_l72c46KjREmkQf8lv4vRtn5amiOL1odHs12T2GDWkJfzDCtU6ZocOY5kk6SEdwbGIaxTtyfzsCTdyTb2havn9H5IKA3pzVaWSLUOFp6IVH0usyvbSk3f0FcmarOGV3fSUtZph_zhps0_4W3GXZN3gWoTt2uUKRwfm84if9ep3MPBjIT5UZQvr3KbEgAA",
+    "SubPath": "/in",
+    "RootPath": "/存储",
+    "HidePath": "",
+    "AuthPath": "",
+    "RefreshInterval": 60
+  },
+  {
+    "MSAccount": false,
+    "MainLand": false,
+    "RefreshToken": "OAQABAAAAAABeAFzDwllzTYGDLh_qYbH8Nl6GcBZQKtmgvKAaZ2XGvOAOyYttqyXJNSilz95u3tczjmRLGafkIhpiMuXs8MBRrx2oCEC_wQiBrgX4RQkwrA3Tc9PnssW9I9Mbc17gbi2bPP6DRJWYpur6yH2-mgJJoYRaogZ5r3bXpUJ3vlCTJmRYX8jBTD_lprJupTKP2FaC74XiZ6Ch7NSrxWtWxWw0AuODAoTPThjcfP-pU8crobnY4IqK_BWO0n7hl5TCq1OA2tZminfpd8RNB9rSakERZ-_GfKshKuhLkpVMoXLMIVsGQ97xHYrBAw42k586wrH9nTN9pme0zXJPISSmZflYu0GCN_y6pyQB4VhQnnqUVJhk4u29uRNm11IJ6aHjLfRUOzkJami4PdtkMMtUnxawZrEq3Ylx5jGrtWbftvX55OIYkV1BhN0owyKe3ymiDc0nVSFpkpWDHUacgifykCZmAeZnfVZCiYXOixpM1_PJj-jBQsJXVc9NxiIU6rcdyMkMTdepG7T5saX2raJ_wM7cAdXnonflmTTsla4BT44HtuEKdLBBdgiZU1hAnDd0HhCkIZaGFjhzRlNPs7MT73zE407TDZRxc-Kn1GHdlSPHG-nQFG8JsG4_olECTjbRoNlj798ZQouiINPKUr7Vzrg-02VF3QRxDImWUzKFcqjrdGaBTqVS6dR3fz4QxYzqmPI-aFieHiK_38em9xGN-kvfaqlBnLSmYxlgN91_kOvE6gU9ZDR0ubGEr3pe48_LwSoZRdfF1u_ZwkaHOF2EY_uYMR_rQz1HKIreOOJUx4Q8DFfO3Rqsuze60i9_gHvzKM2bY6EYxuwiM2xjrx8pbxUCIAA",
+    "SubPath": "/out",
+    "RootPath": "/Download",
+    "HidePath": "",
+    "AuthPath": "",
+    "RefreshInterval": 3000
+  }
+]
